@@ -95,7 +95,7 @@ To help understand the dataset, you can find a sample of the train and dev sets 
 
 ### Dev and Test Set
 
-The dev and test set have three references for each example, which are added to the list at the `annotations` key. The test set annotations are *private* and thus not included in the data. If you want us to evaluate your model on the private test set, please email us at totto@google.com. By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions. We will delete your predictions file within 60 days.
+The dev and test set have three references for each example, which are added to the list at the `annotations` key. The test set annotations are *private* and thus not included in the data. If you want us to evaluate your model on the private test set, please email us at totto@google.com. By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions.
 
 We provide two splits within the dev and test sets - one uses previously seen combinations of table headers and one uses unseen combinations. The sets are marked using the `overlap_subset: bool` flag that is added to the JSON representation. By filtering the evaluation to examples with the flag set to `true`, you will be able to test the generalization ability of your model.
 
@@ -180,5 +180,5 @@ We are maintaining a leaderboard with official results on our blind test set:
 ## Leaderboard Submission
 
 If you want to submit test outputs, please format your predictions as a single `.txt` file with line-separated predictions. The predictions should be in the same order as the examples in the `test.jsonl` file.
-Please email the prediction file using the contact information above (totto@google.com) and state that you want your result to be included in the leaderboard.
+Please email the prediction file using the contact information above (totto@google.com) and state that you want your result to be included in the leaderboard. By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions. We will delete your predictions file within 180 days.
 
