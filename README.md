@@ -168,12 +168,12 @@ We are maintaining a leaderboard with official results on our blind test set:
     <td>Content Planner</td>
     <td><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4668">[Puduppully et al., 2019]</a></td>
     <td>no</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>19.2</td>
+    <td>29.2</td>
+    <td>24.5</td>
+    <td>32.5</td>
+    <td>13.9</td>
+    <td>25.8</td>
   </tr>
 </table>
 
