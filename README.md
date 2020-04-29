@@ -95,7 +95,9 @@ To help understand the dataset, you can find a sample of the train and dev sets 
 
 ### Dev and Test Set
 
-The dev and test set have three references for each example, which are added to the list at the `annotations` key. The test set annotations are *private* and thus not included in the data. If you want us to evaluate your model on the private test set, please email us at totto@google.com. By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions.
+The dev and test set have three references for each example, which are added to the list at the `annotations` key. The test set annotations are *private* and thus not included in the data. 
+
+If you want us to evaluate your model on the private test set, please email us at totto@google.com (See [here](https://github.com/google-research-datasets/ToTTo#leaderboard-submission) for more details). By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions.
 
 We provide two splits within the dev and test sets - one uses previously seen combinations of table headers and one uses unseen combinations. The sets are marked using the `overlap_subset: bool` flag that is added to the JSON representation. By filtering the evaluation to examples with the flag set to `true`, you will be able to test the generalization ability of your model.
 
