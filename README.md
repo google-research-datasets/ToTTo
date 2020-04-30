@@ -34,7 +34,7 @@ The ToTTo dataset consists of three `.jsonl` files, where each line is a JSON di
 ```json
 {
   "table_page_title": "'Weird Al' Yankovic",
-  "table_webpage_url": "https://en.wikipedia.org/wiki/%22Weird_Al%22_Yankovic"
+  "table_webpage_url": "https://en.wikipedia.org/wiki/%22Weird_Al%22_Yankovic",
   "table_section_title": "Television",
   "table_section_text": "",
   "table": "[Described below]",
