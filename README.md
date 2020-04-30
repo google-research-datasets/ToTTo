@@ -9,10 +9,10 @@ By providing multiple different descriptions from the same table, this dataset c
 You can find more details, analyses, and baseline results in [our paper](#). You can cite it as follows:
 
 ```
-@inproceedings{wiseman2017challenges,
+@article{wiseman2017challenges,
   title={ToTTo: A Controlled Table-To-Text Generation Dataset},
   author={Parikh, Ankur P and Wang, Xuezhi and Gehrmann, Sebastian and Faruqui, Manaal and Dhingra, Bhuwan and Yang, Diyi and Das, Dipanjan},
-  booktitle={arXiv:2004.14373},
+  journal={arXiv preprint arXiv:2004.14373},
   year={2020}
 ```
 
