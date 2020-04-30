@@ -6,7 +6,7 @@ During the dataset creation process, tables from English Wikipedia are matched w
 
 By providing multiple different descriptions from the same table, this dataset can be utilized as a testbed for the controllable generation of table description.
 
-You can find more details, analyses, and baseline results in [our paper](#). You can cite it as follows:
+You can find more details, analyses, and baseline results in [our paper](https://arxiv.org/abs/2004.14373). You can cite it as follows:
 
 ```
 @article{parikh2020totto,
