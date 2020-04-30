@@ -20,7 +20,7 @@ You can find more details, analyses, and baseline results in [our paper](#). You
 **Download the TOTTO data**
 
 ```
- wget URL
+ wget https://storage.googleapis.com/totto/totto_data.zip
 ```
 
 **Download the evaluation scripts**
