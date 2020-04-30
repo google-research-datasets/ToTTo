@@ -18,7 +18,8 @@ You can find more details, analyses, and baseline results in [our paper](https:/
 
 ## Getting Started
 **Download the TOTTO data**
-ToTTo is released under the [Creative Commons Share-Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
+The ToTTo dataset is released under the [Creative Commons Share-Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
 
 ```
  wget https://storage.googleapis.com/totto/totto_data.zip
