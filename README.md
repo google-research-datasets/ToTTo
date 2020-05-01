@@ -18,9 +18,11 @@ You can find more details, analyses, and baseline results in [our paper](https:/
 
 ## Getting Started
 **Download the TOTTO data**
+
 From the command line:
 ```
  wget https://storage.googleapis.com/totto/totto_data.zip
+ unzip totto_data.zip
 ```
 (or alternatively from copying the above url into your browser address bar.)
 
