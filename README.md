@@ -104,7 +104,7 @@ To help understand the dataset, you can find a sample of the train and dev sets 
 
 The dev and test set have between two and three references for each example, which are added to the list at the `annotations` key. The test set annotations are *private* and thus not included in the data. 
 
-If you want us to evaluate your model on the private test set, please email us at totto@google.com (See [here](https://github.com/google-research-datasets/ToTTo#leaderboard-submission) for more details). By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions.
+If you want us to evaluate your model on the development or the private test set, please submit your files [here](https://forms.gle/AcF9TRqWrPhPzztt7). You can find more submission information [below](https://github.com/google-research-datasets/ToTTo#leaderboard-submission). By emailing us or by submitting prediction files, you consent to being contacted by Google about your submission, this dataset or any related competitions.
 
 We provide two splits within the dev and test sets - one uses previously seen combinations of table headers and one uses unseen combinations. The sets are marked using the `overlap_subset: bool` flag that is added to the JSON representation. By filtering the evaluation to examples with the flag set to `true`, you will be able to test the generalization ability of your model.
 
@@ -192,6 +192,6 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
 
 ## Leaderboard Submission
 
-If you want to submit test outputs, please format your predictions as a single `.txt` file with line-separated predictions. The predictions should be in the same order as the examples in the `test.jsonl` file.
-Please email the prediction file using the contact information above (totto@google.com) and state that you want your result to be included in the leaderboard. By emailing us, you consent to being contacted by Google about your submission, this dataset or any related competitions. We will delete your predictions file within 180 days.
+If you want to submit dev and test outputs, please format your predictions as a single `.txt` file with line-separated predictions. The predictions should be in the same order as the examples in the `test.jsonl` file.
+You can upload your prediction files [here](https://forms.gle/AcF9TRqWrPhPzztt7). If you run into any issues, you can contact us at totto@google.com. By emailing us or by submitting prediction files, you consent to being contacted by Google about your submission, this dataset or any related competitions.
 
