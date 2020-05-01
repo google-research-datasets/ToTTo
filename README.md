@@ -47,7 +47,7 @@ The ToTTo dataset consists of three `.jsonl` files, where each line is a JSON di
   "table": "[Described below]",
   "highlighted_cells": [[22, 2], [22, 3], [22, 0], [22, 1], [23, 3], [23, 1], [23, 0]],
   "example_id": 12345678912345678912,
-  "annotations": [{"original_sentence": "In 2016, Al appeared in 2 episodes of BoJack Horseman as Mr. Peanutbutter's brother, Captain Peanutbutter, and was hired to voice the lead role in the 2016 Disney XD series Milo Murphy's Law.",
+  "sentence_annotations": [{"original_sentence": "In 2016, Al appeared in 2 episodes of BoJack Horseman as Mr. Peanutbutter's brother, Captain Peanutbutter, and was hired to voice the lead role in the 2016 Disney XD series Milo Murphy's Law.",
                   "sentence_after_deletion": "In 2016, Al appeared in 2 episodes of BoJack Horseman as Captain Peanutbutter, and was hired to the lead role in the 2016 series Milo Murphy's Law.",
                   "sentence_after_ambiguity": "In 2016, Al appeared in 2 episodes of BoJack Horseman as Captain Peanutbutter, and was hired for the lead role in the 2016 series Milo Murphy's 'Law.",
                   "final_sentence": "In 2016, Al appeared in 2 episodes of BoJack Horseman as Captain Peanutbutter and was hired for the lead role in the 2016 series Milo Murphy's Law."}],
@@ -97,12 +97,24 @@ The `table` field is a `List[List[Dict]]`. The outer lists represents rows and t
 ]
 ```
 
+-The table metadata consists of the `table_page_title`, `table_section_title`, and `table_section_text' strings to help give the model more context about the table.
+
+-The `highlighted_cells` field is a List[[row_index, column_index]] where each [row_index, column_index] pair indicates that table[row_index][column_index] is highlighted.
+
+-The `example_id` is simply a unique id for this example.
+
+-The `sentence_annotations` field consists of the original sentence and the sequence of revised sentences performed in order to produce the `final_sentence`
+
+
 To help understand the dataset, you can find a sample of the train and dev sets in the `sample/` folder of our [supplementary repository](https://github.com/google-research/language/tree/master/language/totto). It additionally provides the `create_table_to_text_html.py` script that visualizes an example, the output of which you can also find in the `sample/` folder.
 
+### Official Task
+
+The official task described in the paper is given the `table`, table metadata, and `highlighted cells` as input, to generate the `final_sentence`.
 
 ### Dev and Test Set
 
-The dev and test set have between two and three references for each example, which are added to the list at the `annotations` key. The test set annotations are *private* and thus not included in the data. 
+The dev and test set have between two and three references for each example, which are added to the list at the `sentence_annotations` key. The test set annotations are *private* and thus not included in the data. 
 
 If you want us to evaluate your model on the development or the private test set, please submit your files [here](https://forms.gle/AcF9TRqWrPhPzztt7). You can find more submission information [below](https://github.com/google-research-datasets/ToTTo#leaderboard-submission). By emailing us or by submitting prediction files, you consent to being contacted by Google about your submission, this dataset or any related competitions.
 
@@ -112,7 +124,7 @@ We provide two splits within the dev and test sets - one uses previously seen co
 
 # Leaderboard
 
-We are maintaining a leaderboard with official results on our blind test set.
+We are maintaining a leaderboard with official results on our test set.
 
 The leaderboard indicates whether or not a model was trained on any auxiliary Wikipedia data. This is because our tables and (unrevised) test targets are from Wikipedia and thus we would like to study the effect using additional Wikipedia data to train models.
 
