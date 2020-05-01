@@ -26,6 +26,8 @@ From the command line:
 ```
 (or alternatively from copying the above url into your browser address bar.)
 
+Inside the `totto_data` directory you should see three files: `totto_train_data.jsonl', 'totto_dev_data.jsonl ', and 'unlabeled_totto_test_data.jsonl' for the training, development, and unlabeled test sets respectively.
+
 **Download the evaluation scripts**
 
 You can find evaluation scripts and some exploratory processing scripts at [this repository](https://github.com/google-research/language/tree/master/language/totto). It also includes a separate README file with instruction on how to run the evaluation. 
@@ -93,7 +95,7 @@ The `table` field is a `List[List[Dict]]`. The outer lists represents rows and t
 ]
 ```
 
-To help understand the dataset, you can find a sample of the train and dev sets in the `sample/` folder of our [supplementary repository](https://github.com/google-research/language/tree/master/language/totto). It additionaly provides the `create_table_to_text_html.py` script that visualizes an example, the output of which you can also find in the `sample/` folder.
+To help understand the dataset, you can find a sample of the train and dev sets in the `sample/` folder of our [supplementary repository](https://github.com/google-research/language/tree/master/language/totto). It additionally provides the `create_table_to_text_html.py` script that visualizes an example, the output of which you can also find in the `sample/` folder.
 
 
 ### Dev and Test Set
@@ -108,7 +110,7 @@ We provide two splits within the dev and test sets - one uses previously seen co
 
 # Leaderboard
 
-We are maintaining a leaderboard with official results on our blind test set:
+We are maintaining a leaderboard with official results on our blind test set. The leaderboard indicates whether or not a model was trained on Wikipedia. This is because our tables and (unrevised) test targets are from Wikipedia and thus we would like to study the effect using Wikipedia to train models.  
 
 <table>
   <tr>
