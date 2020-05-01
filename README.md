@@ -110,7 +110,9 @@ We provide two splits within the dev and test sets - one uses previously seen co
 
 # Leaderboard
 
-We are maintaining a leaderboard with official results on our blind test set. The leaderboard indicates whether or not a model was trained on Wikipedia. This is because our tables and (unrevised) test targets are from Wikipedia and thus we would like to study the effect using Wikipedia to train models.  
+We are maintaining a leaderboard with official results on our blind test set. The leaderboard indicates whether or not a model was trained on Wikipedia (beyond what was provided in our training set). This is because our tables and (unrevised) test targets are from Wikipedia and thus we would like to study the effect using Wikipedia to train models.
+
+For reproducibility purposes, we ask you to **not** incorporate any part of the ToTTo development set into the training data, and only use it for validation/hyperparameter tuning.
 
 <table>
   <tr>
