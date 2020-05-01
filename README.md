@@ -24,7 +24,7 @@ From the command line:
  wget https://storage.googleapis.com/totto/totto_data.zip
  unzip totto_data.zip
 ```
-(or alternatively from copying the above url into your browser address bar.)
+(or alternatively copy the above url into your browser address bar.)
 
 Inside the `totto_data` directory you should see three files: `totto_train_data.jsonl', 'totto_dev_data.jsonl ', and 'unlabeled_totto_test_data.jsonl' for the training, development, and unlabeled test sets respectively.
 
