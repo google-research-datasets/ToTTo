@@ -17,9 +17,11 @@ You can find more details, analyses, and baseline results in [our paper](https:/
 ```
 
 ## Getting Started
-**Download the TOTTO data**
+**Download the ToTTo data**
 
-From the command line:
+The ToTTo dataset is released under the [Creative Commons Share-Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+
+To download the data from the command line:
 ```
  wget https://storage.googleapis.com/totto/totto_data.zip
  unzip totto_data.zip
