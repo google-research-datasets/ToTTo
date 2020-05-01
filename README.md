@@ -110,7 +110,7 @@ To help understand the dataset, you can find a sample of the train and dev sets 
 
 ### Official Task
 
-The official task described in the paper is given the `table`, table metadata, and `highlighted cells` as input, to generate the `final_sentence`.
+The official task described in the paper is given the `table`, `highlighted cells`, and table metadata (`table_page_title`, `table_section_title`, and `table_section_text') as input, to generate the `final_sentence`.
 
 ### Dev and Test Set
 
