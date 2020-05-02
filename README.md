@@ -1,10 +1,10 @@
 # ToTTo Dataset
 
-ToTTo is a dataset for the controlled generation of one-sentence descriptions of tabular data comprising over 100,000 examples. Each example is a aligned pair of a highlighted table and a one sentence description of the highlighted content.
+ToTTo is an open-domain English table-to-text dataset with over 120,000 training examples that proposes a controlled generation task: given a Wikipedia table and a set of highlighted table cells, produce a one-sentence description. 
 
 During the dataset creation process, tables from English Wikipedia are matched with (noisy) descriptions. Each table cell mentioned in the description is highlighted and the descriptions are iteratively cleaned and corrected to faithfully reflect the content of the highlighted cells.
 
-By providing multiple different descriptions from the same table, this dataset can be utilized as a testbed for the controllable generation of table descriptions.
+We hope this dataset can serve as a useful research benchmark for high-precision conditional text generation. 
 
 You can find more details, analyses, and baseline results in [our paper](https://arxiv.org/abs/2004.14373). You can cite it as follows:
 
