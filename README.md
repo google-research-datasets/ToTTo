@@ -97,7 +97,7 @@ The `table` field is a `List[List[Dict]]`. The outer lists represents rows and t
 ]
 ```
 
--The table metadata consists of the `table_page_title`, `table_section_title`, and `table_section_text' strings to help give the model more context about the table.
+-The table metadata consists of the `table_page_title`, `table_section_title`, and `table_section_text` strings to help give the model more context about the table.
 
 -The `highlighted_cells` field is a List[[row_index, column_index]] where each [row_index, column_index] pair indicates that table[row_index][column_index] is highlighted.
 
