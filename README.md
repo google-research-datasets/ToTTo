@@ -103,7 +103,7 @@ The `table` field is a `List[List[Dict]]`. The outer lists represents rows and t
 
 -The `example_id` is simply a unique id for this example.
 
--The `sentence_annotations` field consists of the `original sentence` and the sequence of revised sentences performed in order to produce the `final_sentence`. See our paper for more details.
+-The `sentence_annotations` field consists of the `original sentence` and the sequence of revised sentences performed in order to produce the `final_sentence`. See our [paper](https://arxiv.org/abs/2004.14373) for more details.
 
 
 To help understand the dataset, you can find a sample of the train and dev sets in the `sample/` folder of our [supplementary repository](https://github.com/google-research/language/tree/master/language/totto). It additionally provides the `create_table_to_text_html.py` script that visualizes an example, the output of which you can also find in the `sample/` folder.
