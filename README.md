@@ -155,7 +155,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <tr>
     <td>1.</td>
       <td> maninblack (<i>Google</i>) </td>
-    <td>-</a></td>
+      <td> <center>- </center> </a></td>
     <td>yes</td>
     <td><b>49.5</b></td>
     <td><b>58.4</b></td>
