@@ -152,6 +152,18 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <th>BLEU</th>
     <th>PARENT</th>
   </tr>
+    <tr>
+    <td>1.</td>
+    <td> maninblack (Google) </td>
+    <td>-</a></td>
+    <td>yes</td>
+    <td><b>49.5</b></td>
+    <td><b>58.4</b></td>
+    <td><b>57.5</b></td>
+    <td><b>62.6</b></td>
+    <td><b>41.4</b></td>
+    <td><b>54.2</b></td>
+  </tr>
   <tr>
     <td>1.</td>
     <td>BERT-to-BERT (Wiki+Books)</td>
