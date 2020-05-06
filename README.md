@@ -154,7 +154,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
   </tr>
     <tr>
     <td>1.</td>
-    <td> maninblack (Google) </td>
+      <td> maninblack (<i>Google</i>) </td>
     <td>-</a></td>
     <td>yes</td>
     <td><b>49.5</b></td>
@@ -169,12 +169,12 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>BERT-to-BERT (Wiki+Books)</td>
     <td><a href="https://arxiv.org/abs/1907.12461">[Rothe et al., 2019]</a></td>
     <td>yes</td>
-    <td><b>44.0</b></td>
-    <td><b>52.6</b></td>
-    <td><b>52.7</b></td>
-    <td><b>58.4</b></td>
-    <td><b>35.1</b></td>
-    <td><b>46.8</b></td>
+    <td>44.0</td>
+    <td>52.6</td>
+    <td>52.7</td>
+    <td>58.4</td>
+    <td>35.1</td>
+    <td>46.8</td>
   </tr>
   <tr>
     <td>2.</td>
@@ -182,9 +182,9 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td><a href="https://arxiv.org/abs/1907.12461">[Rothe et al., 2019]</a></td>
     <td>no</td>
     <td>43.9</td>
-    <td><b>52.6</b></td>
-    <td><b>52.7</b></td>
-    <td><b>58.4</b></td>
+    <td>52.6</td>
+    <td>52.7</td>
+    <td>58.4</td>
     <td>34.8</td>
     <td>46.7</td>
   </tr>
