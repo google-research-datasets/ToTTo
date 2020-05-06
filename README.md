@@ -155,7 +155,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <tr>
     <td>1.</td>
       <td> maninblack (<i>Google</i>) </td>
-      <td> <center>- </center> </a></td>
+      <td> - </a></td>
     <td>yes</td>
     <td><b>49.5</b></td>
     <td><b>58.4</b></td>
@@ -165,7 +165,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td><b>54.2</b></td>
   </tr>
   <tr>
-    <td>1.</td>
+    <td>2.</td>
     <td>BERT-to-BERT (Wiki+Books)</td>
     <td><a href="https://arxiv.org/abs/1907.12461">[Rothe et al., 2019]</a></td>
     <td>yes</td>
@@ -177,7 +177,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>46.8</td>
   </tr>
   <tr>
-    <td>2.</td>
+    <td>3.</td>
     <td>BERT-to-BERT (Books)</td>
     <td><a href="https://arxiv.org/abs/1907.12461">[Rothe et al., 2019]</a></td>
     <td>no</td>
@@ -189,7 +189,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>46.7</td>
   </tr>
   <tr>
-    <td>3.</td>
+    <td>4.</td>
     <td>Pointer Generator</td>
     <td><a href="https://www.aclweb.org/anthology/P17-1099/">[See et al., 2017]</a></td>
     <td>no</td>
@@ -201,7 +201,7 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>45.2</td>
   </tr>
   <tr>
-    <td>4.</td>
+    <td>5.</td>
     <td>Content Planner</td>
     <td><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4668">[Puduppully et al., 2019]</a></td>
     <td>no</td>
