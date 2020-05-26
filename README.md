@@ -154,8 +154,8 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
   </tr>
     <tr>
     <td>1.</td>
-      <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a> (<i>Google</i>) </td>
-      <td> - </a></td>
+      <td> T5-based (<i>Google</i>) </td>
+      <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a></td>
     <td>yes</td>
     <td><b>49.5</b></td>
     <td><b>58.4</b></td>
