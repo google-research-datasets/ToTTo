@@ -130,7 +130,7 @@ The leaderboard indicates whether or not a model was trained on any auxiliary Wi
 
 We ask you to **not** incorporate any part of the ToTTo development set into the training data, and only use it for validation/hyperparameter tuning as development sets are typically used.
 
-In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](https://arxiv.org/abs/1906.01081), we also report a learnt metric [BLEURT](https://arxiv.org/abs/2004.04696). The checkpoint used was BLEURT-base-128 which can be found [here](https://github.com/google-research/bleurt). To handle multiple-references, we take the average of the scores as suggested by [Sellam et al. 2020](https://arxiv.org/abs/2010.04297).
+In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](https://arxiv.org/abs/1906.01081), we also report a learnt metric [BLEURT](https://arxiv.org/abs/2004.04696). The checkpoint used was BLEURT-base-128 which can be found [here](https://github.com/google-research/bleurt). To handle multiple references, we take the average of the scores as suggested by [Sellam et al. 2020](https://arxiv.org/abs/2010.04297).
 
 <table>
   <tr>
