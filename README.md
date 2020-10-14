@@ -136,9 +136,9 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <th></th>
     <th></th>
     <th></th>
-    <th colspan="2">Overall</th>
-    <th colspan="2">Overlap Subset</th>
-    <th colspan="2">Non-Overlap Subset</th>
+    <th colspan="3">Overall</th>
+    <th colspan="3">Overlap Subset</th>
+    <th colspan="3">Non-Overlap Subset</th>
   </tr>
   <tr>
     <th></th>
@@ -147,10 +147,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <th>Uses Wiki</th>
     <th>BLEU</th>
     <th>PARENT</th>
+    <th>BLEURT</th>
     <th>BLEU</th>
     <th>PARENT</th>
+    <th>BLEURT</th>
     <th>BLEU</th>
     <th>PARENT</th>
+    <th>BLEURT</th>
   </tr>
     <tr>
     <td>1.</td>
@@ -159,10 +162,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>yes</td>
     <td><b>49.5</b></td>
     <td><b>58.4</b></td>
+    <td><b>??</b></td>
     <td><b>57.5</b></td>
     <td><b>62.6</b></td>
+     <td><b>??</b></td>
     <td><b>41.4</b></td>
     <td><b>54.2</b></td>
+     <td><b>??</b></td>
   </tr>
   <tr>
     <td>2.</td>
@@ -171,10 +177,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>yes</td>
     <td>44.0</td>
     <td>52.6</td>
+    <td><b>??</b></td>
     <td>52.7</td>
     <td>58.4</td>
+    <td><b>??</b></td>
     <td>35.1</td>
     <td>46.8</td>
+    <td><b>??</b></td>
   </tr>
   <tr>
     <td>3.</td>
@@ -183,10 +192,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>no</td>
     <td>43.9</td>
     <td>52.6</td>
+    <td><b>??</b></td>
     <td>52.7</td>
     <td>58.4</td>
+    <td><b>??</b></td>
     <td>34.8</td>
     <td>46.7</td>
+    <td><b>??</b></td>
   </tr>
   <tr>
     <td>4.</td>
@@ -195,10 +207,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>no</td>
     <td>41.6</td>
     <td>51.6</td>
+    <td><b>??</b></td>
     <td>50.6</td>
     <td>58.0</td>
+    <td><b>??</b></td>
     <td>32.2</td>
     <td>45.2</td>
+    <td><b>??</b></td>
   </tr>
   <tr>
     <td>5.</td>
@@ -207,10 +222,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>no</td>
     <td>19.2</td>
     <td>29.2</td>
+    <td><b>??</b></td>
     <td>24.5</td>
     <td>32.5</td>
+    <td><b>??</b></td>
     <td>13.9</td>
     <td>25.8</td>
+    <td><b>??</b></td>
   </tr>
 </table>
 
