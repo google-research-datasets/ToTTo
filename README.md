@@ -177,13 +177,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>yes</td>
     <td>44.0</td>
     <td>52.6</td>
-    <td><b>0.172</b></td>
+    <td>0.172</td>
     <td>52.7</td>
     <td>58.4</td>
-    <td><b>0.293</b></td>
+    <td>0.293</td>
     <td>35.1</td>
     <td>46.8</td>
-    <td><b>0.051</b></td>
+    <td>0.051</td>
   </tr>
   <tr>
     <td>3.</td>
@@ -192,13 +192,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>no</td>
     <td>43.9</td>
     <td>52.6</td>
-    <td><b>0.155</b></td>
+    <td>0.155</td>
     <td>52.7</td>
     <td>58.4</td>
     <td><b>0.288</b></td>
     <td>34.8</td>
     <td>46.7</td>
-    <td><b>0.021</b></td>
+    <td>0.021</td>
   </tr>
   <tr>
     <td>4.</td>
@@ -207,13 +207,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>no</td>
     <td>41.6</td>
     <td>51.6</td>
-    <td><b>0.123</b></td>
+    <td>0.123</td>
     <td>50.6</td>
     <td>58.0</td>
-    <td><b>0.276</b></td>
+    <td>0.276</td>
     <td>32.2</td>
     <td>45.2</td>
-    <td><b>-0.030</b></td>
+    <td>-0.030</td>
   </tr>
   <tr>
     <td>5.</td>
@@ -222,13 +222,13 @@ We ask you to **not** incorporate any part of the ToTTo development set into the
     <td>no</td>
     <td>19.2</td>
     <td>29.2</td>
-    <td><b>-0.549</b></td>
+    <td>-0.549</td>
     <td>24.5</td>
     <td>32.5</td>
-    <td><b>-0.472</b></td>
+    <td>-0.472</td>
     <td>13.9</td>
     <td>25.8</td>
-    <td><b>-0.626</b></td>
+    <td>-0.626</td>
   </tr>
 </table>
 
