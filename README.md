@@ -9,11 +9,12 @@ We hope this dataset can serve as a useful research benchmark for high-precision
 You can find more details, analyses, and baseline results in [our paper](https://arxiv.org/abs/2004.14373). You can cite it as follows:
 
 ```
-@article{parikh2020totto,
-  title={ToTTo: A Controlled Table-To-Text Generation Dataset},
+@inproceedings{parikh2020totto,
+  title={{ToTTo}: A Controlled Table-To-Text Generation Dataset},
   author={Parikh, Ankur P and Wang, Xuezhi and Gehrmann, Sebastian and Faruqui, Manaal and Dhingra, Bhuwan and Yang, Diyi and Das, Dipanjan},
-  journal={arXiv preprint arXiv:2004.14373},
+  booktitle={Proceedings of EMNLP},
   year={2020}
+ }
 ```
 
 ## Getting Started
