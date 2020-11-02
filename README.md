@@ -165,13 +165,13 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>yes</td>
     <td><b>49.5</b></td>
     <td><b>58.4</b></td>
-    <td><b>0.285</b></td>
+    <td><b>0.230</b></td>
     <td><b>57.5</b></td>
     <td><b>62.6</b></td>
-     <td><b>0.388</b></td>
+     <td><b>0.351</b></td>
     <td><b>41.4</b></td>
     <td><b>54.2</b></td>
-     <td><b>0.182</b></td>
+     <td><b>0.1079</b></td>
   </tr>
   <tr>
     <td>2.</td>
@@ -180,13 +180,13 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>yes</td>
     <td>44.0</td>
     <td>52.6</td>
-    <td>0.172</td>
+    <td>0.121</td>
     <td>52.7</td>
     <td>58.4</td>
-    <td>0.293</td>
+    <td>0.259</td>
     <td>35.1</td>
     <td>46.8</td>
-    <td>0.051</td>
+    <td>-0.017</td>
   </tr>
   <tr>
     <td>3.</td>
@@ -195,13 +195,13 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>no</td>
     <td>43.9</td>
     <td>52.6</td>
-    <td>0.155</td>
+    <td>0.104</td>
     <td>52.7</td>
     <td>58.4</td>
-    <td><b>0.288</b></td>
+    <td><b>0.255</b></td>
     <td>34.8</td>
     <td>46.7</td>
-    <td>0.021</td>
+    <td>-0.046</td>
   </tr>
   <tr>
     <td>4.</td>
@@ -210,13 +210,13 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>no</td>
     <td>41.6</td>
     <td>51.6</td>
-    <td>0.123</td>
+    <td>0.076</td>
     <td>50.6</td>
     <td>58.0</td>
-    <td>0.276</td>
+    <td>0.244</td>
     <td>32.2</td>
     <td>45.2</td>
-    <td>-0.030</td>
+    <td>-0.0922</td>
   </tr>
   <tr>
     <td>5.</td>
@@ -225,13 +225,13 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>no</td>
     <td>19.2</td>
     <td>29.2</td>
-    <td>-0.549</td>
+    <td>-0.576</td>
     <td>24.5</td>
     <td>32.5</td>
-    <td>-0.472</td>
+    <td>-0.491</td>
     <td>13.9</td>
     <td>25.8</td>
-    <td>-0.626</td>
+    <td>-0.662</td>
   </tr>
 </table>
 
