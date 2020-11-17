@@ -160,29 +160,29 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
       <td> Anonymous </td>
       <td> Paper in preparation </td>
     <td>-</td>
-    <td><b>49.5</b></td>
-    <td><b>58.4</b></td>
-    <td><b>0.230</b></td>
-    <td><b>57.5</b></td>
-    <td><b>62.6</b></td>
-     <td><b>0.351</b></td>
-    <td><b>41.4</b></td>
-    <td><b>54.2</b></td>
-     <td><b>0.1079</b></td>
+    <td>49.2 </td>
+    <td><b>58.7</b></td>
+    <td><b>0.249</b></td>
+    <td>56.9</td>
+    <td><b>62.8</b></td>
+     <td><b>0.371</b></td>
+    <td><b>41.5</b></td>
+    <td><b>54.6</b></td>
+     <td><b>0.126</b></td>
     </tr>
     <tr>
       <td> T5-based (<i>Google</i>) </td>
       <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a></td>
     <td>yes</td>
     <td><b>49.5</b></td>
-    <td><b>58.4</b></td>
-    <td><b>0.230</b></td>
+    <td>58.4</td>
+    <td>0.230</td>
     <td><b>57.5</b></td>
-    <td><b>62.6</b></td>
-     <td><b>0.351</b></td>
-    <td><b>41.4</b></td>
-    <td><b>54.2</b></td>
-     <td><b>0.1079</b></td>
+    <td>62.6</td>
+     <td>0.351</td>
+    <td>41.4</td>
+    <td>54.2</td>
+     <td>0.1079</td>
   </tr>
   <tr>
     <td>BERT-to-BERT (Wiki+Books)</td>
