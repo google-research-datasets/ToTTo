@@ -156,6 +156,20 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>PARENT</th>
     <th>BLEURT</th>
   </tr>
+   <tr>
+      <td> Anonymous </td>
+      <td> Paper in preparation </td>
+    <td>-</td>
+    <td><b>49.5</b></td>
+    <td><b>58.4</b></td>
+    <td><b>0.230</b></td>
+    <td><b>57.5</b></td>
+    <td><b>62.6</b></td>
+     <td><b>0.351</b></td>
+    <td><b>41.4</b></td>
+    <td><b>54.2</b></td>
+     <td><b>0.1079</b></td>
+    </tr>
     <tr>
       <td> T5-based (<i>Google</i>) </td>
       <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a></td>
