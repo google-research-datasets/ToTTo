@@ -138,13 +138,11 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
     <th colspan="3">Overall</th>
     <th colspan="3">Overlap Subset</th>
     <th colspan="3">Non-Overlap Subset</th>
   </tr>
   <tr>
-    <th></th>
     <th>Model</th>
     <th>Link</th>
     <th>Uses Wiki</th>
@@ -159,7 +157,6 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>BLEURT</th>
   </tr>
     <tr>
-    <td>1.</td>
       <td> T5-based (<i>Google</i>) </td>
       <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a></td>
     <td>yes</td>
@@ -174,7 +171,6 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
      <td><b>0.1079</b></td>
   </tr>
   <tr>
-    <td>2.</td>
     <td>BERT-to-BERT (Wiki+Books)</td>
     <td><a href="https://arxiv.org/abs/1907.12461">[Rothe et al., 2019]</a></td>
     <td>yes</td>
@@ -189,7 +185,6 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>-0.017</td>
   </tr>
   <tr>
-    <td>3.</td>
     <td>BERT-to-BERT (Books)</td>
     <td><a href="https://arxiv.org/abs/1907.12461">[Rothe et al., 2019]</a></td>
     <td>no</td>
@@ -204,7 +199,6 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>-0.046</td>
   </tr>
   <tr>
-    <td>4.</td>
     <td>Pointer Generator</td>
     <td><a href="https://www.aclweb.org/anthology/P17-1099/">[See et al., 2017]</a></td>
     <td>no</td>
@@ -219,7 +213,6 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>-0.0922</td>
   </tr>
   <tr>
-    <td>5.</td>
     <td>Content Planner</td>
     <td><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4668">[Puduppully et al., 2019]</a></td>
     <td>no</td>
