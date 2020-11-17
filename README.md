@@ -159,7 +159,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
    <tr>
       <td> Anonymous </td>
       <td> Paper in preparation </td>
-    <td>-</td>
+    <td>yes</td>
     <td>49.2 </td>
     <td><b>58.7</b></td>
     <td><b>0.249</b></td>
