@@ -157,7 +157,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>BLEURT</th>
   </tr>
      <tr>
-      <td> Anonymous 2 </td>
+      <td> Anonymous 2</td>
       <td> Paper in preparation </td>
     <td>yes</td>
     <td>49.4 </td>
