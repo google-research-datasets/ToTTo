@@ -156,19 +156,33 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>PARENT</th>
     <th>BLEURT</th>
   </tr>
+     <tr>
+      <td> Anonymous 2 </td>
+      <td> Paper in preparation </td>
+    <td>yes</td>
+    <td>49.4 </td>
+    <td><b>59.0</b></td>
+    <td><b>0.253</b></td>
+    <td>57.0</td>
+    <td><b>62.9</b></td>
+     <td><b>0.370</b></td>
+    <td><b>41.7</b></td>
+    <td><b>55.1</b></td>
+     <td><b>0.136</b></td>
+    </tr>
    <tr>
-      <td> Anonymous </td>
+      <td> Anonymous 1 </td>
       <td> Paper in preparation </td>
     <td>yes</td>
     <td>49.2 </td>
-    <td><b>58.7</b></td>
-    <td><b>0.249</b></td>
+    <td>58.7</td>
+    <td>0.249</td>
     <td>56.9</td>
-    <td><b>62.8</b></td>
-     <td><b>0.371</b></td>
-    <td><b>41.5</b></td>
-    <td><b>54.6</b></td>
-     <td><b>0.126</b></td>
+    <td>62.8</td>
+     <td>0.371</td>
+    <td>41.5</td>
+    <td>54.6</td>
+     <td>0.126</td>
     </tr>
     <tr>
       <td> T5-based (<i>Google</i>) </td>
