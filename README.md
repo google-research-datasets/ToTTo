@@ -24,7 +24,7 @@ The ToTTo dataset is released under the [Creative Commons Share-Alike 3.0](https
 
 To download the data from the command line:
 ```
- wget https://storage.googleapis.com/totto/totto_data.zip
+ wget https://storage.googleapis.com/totto-public/totto_data.zip
  unzip totto_data.zip
 ```
 (or alternatively copy the above url into your browser address bar.)
