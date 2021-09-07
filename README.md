@@ -171,8 +171,8 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
      <td><b>0.136</b></td>
     </tr>
    <tr>
-      <td> Anonymous 1 </td>
-      <td> Paper in preparation </td>
+      <td> PlanGen (University of Cambridge, Apple) </td>
+     <td> <a href="https://arxiv.org/abs/2108.13740"> [Su et al. 2021] </a> </td>
     <td>yes</td>
     <td>49.2 </td>
     <td>58.7</td>
