@@ -185,7 +185,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
      <td>0.126</td>
     </tr>
     <tr>
-      <td> T5-based (<i>Google</i>) </td>
+      <td> T5-3B (<i>Google</i>) </td>
       <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a></td>
     <td>yes</td>
     <td><b>49.5</b></td>
