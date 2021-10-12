@@ -156,6 +156,20 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>PARENT</th>
     <th>BLEURT</th>
   </tr>
+       <tr>
+      <td> ProEdit (POSTECH) </td>
+      <td> Paper in preparation </td>
+    <td>yes</td>
+    <td> 48.6 </td>
+    <td><b>59.18</b></td>
+    <td>0.202</td>
+    <td>55.9</td>
+    <td><b> 63.30</b></td>
+     <td>0.325</td>
+    <td><b>41.3</b></td>
+    <td><b>55.1</b></td>
+     <td>0.078</td>
+    </tr>
      <tr>
       <td> Anonymous 2</td>
       <td> Paper in preparation </td>
