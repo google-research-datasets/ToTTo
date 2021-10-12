@@ -164,9 +164,9 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td><b>59.18</b></td>
     <td>0.202</td>
     <td>55.9</td>
-    <td><b> 63.30</b></td>
+    <td><b> 63.3</b></td>
      <td>0.325</td>
-    <td><b>41.3</b></td>
+    <td>41.3</td>
     <td><b>55.1</b></td>
      <td>0.078</td>
     </tr>
@@ -175,10 +175,10 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
       <td> Paper in preparation </td>
     <td>yes</td>
     <td>49.4 </td>
-    <td><b>59.0</b></td>
+    <td>59.0</td>
     <td><b>0.253</b></td>
     <td>57.0</td>
-    <td><b>62.9</b></td>
+    <td>62.9</td>
      <td><b>0.370</b></td>
     <td><b>41.7</b></td>
     <td><b>55.1</b></td>
