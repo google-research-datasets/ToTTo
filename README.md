@@ -157,7 +157,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>BLEURT</th>
   </tr>
        <tr>
-      <td> ProEdit (POSTECH) </td>
+      <td> ProEdit </td>
       <td> Paper in preparation </td>
     <td>yes</td>
     <td> 48.6 </td>
