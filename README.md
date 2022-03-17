@@ -178,7 +178,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td><b>59.18</b></td>
     <td>0.202</td>
     <td>55.9</td>
-    <td><b> 63.3</b></td>
+    <td>63.3</td>
      <td>0.325</td>
     <td>41.3</td>
     <td><b>55.1</b></td>
