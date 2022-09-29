@@ -156,6 +156,20 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>PARENT</th>
     <th>BLEURT</th>
   </tr>
+         <tr>
+      <td> SKY </td>
+      <td> in preparation </td>
+    <td>yes</td>
+    <td><b>49.9</b></td>
+    <td><b>59.8</b></td>
+    <td>0.212</td>
+    <td><b>57.8</b></td>
+         <td><b>64.0</b></td>
+     <td>0.334</td>
+    <td><b>42.0</b></td>
+    <td><b>55.7</b></td>
+     <td>0.091</td>
+  </tr> 
        <tr>
       <td> Anonymous 3 </td>
       <td> in preparation </td>
@@ -164,7 +178,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>58.8</td>
     <td>0.235</td>
     <td>57.1</td>
-         <td><b>63.4</b></td>
+         <td>63.4</td>
      <td>0.358</td>
     <td>41.5</td>
     <td>54.1</td>
@@ -175,13 +189,13 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
       <td> Paper in preparation </td>
     <td>yes</td>
     <td> 48.6 </td>
-    <td><b>59.18</b></td>
+    <td>59.18</td>
     <td>0.202</td>
     <td>55.9</td>
     <td>63.3</td>
      <td>0.325</td>
     <td>41.3</td>
-    <td><b>55.1</b></td>
+    <td>55.1</td>
      <td>0.078</td>
     </tr>
      <tr>
@@ -216,10 +230,10 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
       <td> T5-based (<i>Google</i>) </td>
       <td> <a href="https://arxiv.org/abs/2005.10433">[Kale, 2020]</a></td>
     <td>yes</td>
-    <td><b>49.5</b></td>
+    <td>49.5</td>
     <td>58.4</td>
     <td>0.230</td>
-    <td><b>57.5</b></td>
+    <td>57.5</td>
     <td>62.6</td>
      <td>0.351</td>
     <td>41.4</td>
