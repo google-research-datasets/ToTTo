@@ -208,8 +208,8 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>57.0</td>
     <td>62.9</td>
      <td><b>0.370</b></td>
-    <td><b>41.7</b></td>
-    <td><b>55.1</b></td>
+    <td>41.7</td>
+    <td>55.1</td>
      <td><b>0.136</b></td>
     </tr>
    <tr>
