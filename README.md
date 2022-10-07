@@ -164,11 +164,25 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td><b>59.8</b></td>
     <td>0.212</td>
     <td><b>57.8</b></td>
-         <td><b>64.0</b></td>
+         <td>64.0</td>
      <td>0.334</td>
     <td><b>42.0</b></td>
     <td><b>55.7</b></td>
      <td>0.091</td>
+  </tr> 
+          <tr>
+      <td> Supervised+NLPO </td>
+            <td> <a href="https://arxiv.org/abs/2210.01241">[Ramamurthy et al. 2022]</a></td>
+    <td>yes</td>
+    <td>47.4</td>
+    <td>59.6</td>
+    <td>0.192</td>
+    <td>55.0</td>
+         <td><b>64.3</b></td>
+     <td>0.315</td>
+    <td>39.2</td>
+    <td>55.0</td>
+     <td>0.068</td>
   </tr> 
        <tr>
       <td> Anonymous 3 </td>
