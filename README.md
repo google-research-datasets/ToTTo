@@ -170,6 +170,20 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td><b>55.7</b></td>
      <td>0.091</td>
   </tr> 
+    <tr>
+      <td> CoNT </td>
+      <td> <a href="https://arxiv.org/abs/2205.14690v2">[An et al., 2022]</a></td>
+    <td>yes</td>
+    <td>49.1</td>
+    <td>58.93</td>
+    <td>0.238</td>
+    <td>56.7</td>
+     <td>63.2</td>
+     <td>0.355</td>
+    <td>41.3</td>
+    <td>54.6</td>
+     <td>0.121</td>
+  </tr>
           <tr>
       <td> Supervised+NLPO </td>
             <td> <a href="https://arxiv.org/abs/2210.01241">[Ramamurthy et al. 2022]</a></td>
