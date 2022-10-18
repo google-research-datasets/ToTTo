@@ -175,7 +175,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
       <td> <a href="https://arxiv.org/abs/2205.14690v2">[An et al., 2022]</a></td>
     <td>yes</td>
     <td>49.1</td>
-    <td>58.93</td>
+    <td>58.9</td>
     <td>0.238</td>
     <td>56.7</td>
      <td>63.2</td>
