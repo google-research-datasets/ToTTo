@@ -158,7 +158,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
   </tr>
        <tr>
       <td> LATTICE </td>
-      <td> in preparation </td>
+         <td> <a href="https://arxiv.org/abs/2205.03972">[Wang et al. 2022]</a> </td>
     <td>yes</td>
     <td>48.4</td>
     <td>58.1</td>
