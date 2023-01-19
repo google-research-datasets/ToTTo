@@ -343,5 +343,5 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
 ## Leaderboard Submission
 
 If you want to submit dev and test outputs, please format your predictions as a single `.txt` file with line-separated predictions. The predictions should be in the same order as the examples in the `test.jsonl` file.
-You can upload your prediction files [here](https://forms.gle/AcF9TRqWrPhPzztt7). If you run into any issues, you can contact us at totto@google.com. By emailing us or by submitting prediction files, you consent to being contacted by Google about your submission, this dataset or any related competitions.
+You can upload your prediction files [here](https://forms.gle/AcF9TRqWrPhPzztt7) and email us at totto@google.com to tell us you have submitted. By emailing us or by submitting prediction files, you consent to being contacted by Google about your submission, this dataset or any related competitions.
 
