@@ -156,6 +156,20 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <th>PARENT</th>
     <th>BLEURT</th>
   </tr>
+     <tr>
+      <td> Diffusion-TT (MIPT, Sber) </td>
+         <td> in preparation </td>
+    <td>yes</td>
+    <td>47.1</td>
+    <td>56.9</td>
+    <td>0.200</td>
+    <td>55.4</td>
+         <td>61.9</td>
+     <td>0.333</td>
+    <td>38.5</td>
+    <td>51.9</td>
+     <td>.048</td>
+  </tr> 
        <tr>
       <td> LATTICE </td>
          <td> <a href="https://arxiv.org/abs/2205.03972">[Wang et al. 2022]</a> </td>
