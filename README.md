@@ -162,7 +162,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
     <td>yes</td>
     <td>47.1</td>
     <td>56.9</td>
-    <td>0.200</td>
+    <td>0.191</td>
     <td>55.4</td>
          <td>61.9</td>
      <td>0.333</td>
