@@ -158,7 +158,7 @@ In addition to [BLEU](https://www.aclweb.org/anthology/P02-1040/) and [PARENT](h
   </tr>
      <tr>
       <td> Diffusion-TT (MIPT, Sber) </td>
-         <td> in preparation </td>
+         <td><a href="https://ieeexplore.ieee.org/document/10630478">Krylov and Somov 2024</a></td>
     <td>yes</td>
     <td>47.1</td>
     <td>56.9</td>
